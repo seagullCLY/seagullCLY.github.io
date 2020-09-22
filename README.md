@@ -1,5 +1,4 @@
 # seagullCLY.github.io
-# caoliyuan.github.io
 竞品分析
 1.产品介绍
 a)	网易云音乐：国内首个以歌单为架构低音乐APP，为用户提供高品质的音乐享受。
